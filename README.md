@@ -7,7 +7,7 @@ game's logic.
 # Features
 
 gUnit provides basic features for unit testing:
-- 📦 Splitting code into test suites
+- 📦 Splitting test into encapsulated test suites
 - ✅ Basic assertions
 
 # Usage Example
