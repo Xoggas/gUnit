@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_Assert",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_Assert",
+  "parent":{
+    "name":"gUnit",
+    "path":"folders/Scripts/gUnit.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

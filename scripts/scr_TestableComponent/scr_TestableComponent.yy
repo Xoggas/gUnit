@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_TestableComponent",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_TestableComponent",
+  "parent":{
+    "name":"gUnit_examples",
+    "path":"folders/Scripts/gUnit_examples.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
