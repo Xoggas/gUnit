@@ -10,6 +10,16 @@ gUnit provides basic features for unit testing:
 - 📦 Splitting test into encapsulated test suites
 - ✅ Basic assertions
 
+# Installation
+1. Download the latest `gUnit.yymps` from the Releases tab.
+2. Open Game Maker Studio.
+3. Create or open an existing project.
+4. Go to `Tools` and click `Import Local Package`.
+5. Find `gUnit.yymps` file and select it.
+6. When Game Maker Studio finished its internal processing press `Add All`
+in the opened window.
+7. Press `Import`.
+
 # Usage Example
 
 ## Dummy component
